@@ -4071,30 +4071,6 @@ img.u-pull-left {
     color : white;
 }
 
-/* ------------------------------------------------------------------- 
- * ## copyright
- * ------------------------------------------------------------------- */
-.ss-copyright {
-    margin-top   : calc(var(--vspace-0_25) * -1);
-    margin-right : 5.2rem;
-    line-height  : var(--vspace-0_875);
-}
-
-.ss-copyright span {
-    font-size : var(--text-sm);
-    display   : inline-block;
-}
-
-.ss-copyright span::after {
-    content : "|";
-    display : inline-block;
-    padding : 0 .8rem 0 1rem;
-    color   : rgba(255, 255, 255, 0.1);
-}
-
-.ss-copyright span:last-child::after {
-    display : none;
-}
 
 /* ------------------------------------------------------------------- 
  * ## go top
@@ -4145,14 +4121,7 @@ img.u-pull-left {
  * footer
  * ------------------------------------------------------------------- */
 @media screen and (max-width: 600px) {
-    .ss-copyright span {
-        display : block;
-    }
-
-    .ss-copyright span::after {
-        display : none;
-    }
-
+ 
     .ss-go-top {
         top   : calc(var(--vspace-0_25) * -1);
         right : calc(6vw + var(--gutter));
