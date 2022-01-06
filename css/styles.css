@@ -3920,7 +3920,7 @@ img.u-pull-left {
     }
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 300px) {
     .folio-list .column {
         flex  : none;
         width : 50%;
