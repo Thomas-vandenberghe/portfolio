@@ -4157,30 +4157,6 @@ img.u-pull-left {
     margin-right: 20%;
 }
 
-
-@media (max-width:931px) {
-    .espace{
-        width: 80% !important;
-        padding-top : 0px !important;
-        padding-bottom : 0px !important;
-        height: 30px !important;
-        margin-bottom:0px !important;
-        margin-left:10% !important;
-        margin-right :10% !important;
-    }
-    
-    .encart{
-        height: 60px !important;
-        width: 80% !important;
-        padding-top : 0px !important;
-        padding-bottom : 0px !important;
-        margin-bottom:0px !important;
-        margin-left:10% !important;
-        margin-right: 10% !important;
-    }
-}
-
-
 .dnone{
     display: block !important;
 }
