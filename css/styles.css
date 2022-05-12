@@ -4122,8 +4122,12 @@ img.u-pull-left {
  * footer
  * ------------------------------------------------------------------- */
 @media screen and (max-width: 600px) {
+<<<<<<< HEAD
    
 
+=======
+ 
+>>>>>>> 8dfd9d547a75afbdbdae358e4139fecb22426b94
     .ss-go-top {
         top   : calc(var(--vspace-0_25) * -1);
         right : calc(6vw + var(--gutter));
@@ -4135,6 +4139,7 @@ img.u-pull-left {
         right : 6vw;
     }
 }
+<<<<<<< HEAD
 
 
 .espace{
@@ -4197,3 +4202,5 @@ img.u-pull-left {
     }
 }
 
+=======
+>>>>>>> 8dfd9d547a75afbdbdae358e4139fecb22426b94
